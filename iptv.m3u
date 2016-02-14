@@ -101,371 +101,130 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 #EXTINF:1,[COLOR orange][B]PAUL TV [/B][/COLOR]
 yuuuup
 
-#EXTINF:-1,UK: Sky Sports 1
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/1.ts
- 
-#EXTINF:-1,UK: Sky Sports 2
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/2.ts
- 
-#EXTINF:-1,UK: Sky Sports 3
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/3.ts
- 
-#EXTINF:-1,UK: Sky Sports 4
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/4.ts
- 
-#EXTINF:-1,UK: Sky Sports 5
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/5.ts
- 
-#EXTINF:-1,UK: Sky Sports F1
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/6.ts
- 
-#EXTINF:-1,UK: Sky Sports News
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/7.ts
- 
-#EXTINF:-1,UK: ESPN
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/8.ts
- 
-#EXTINF:-1,UK: BT Sport 1
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/9.ts
- 
-#EXTINF:-1,UK: BT Sport 2
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/10.ts
- 
-#EXTINF:-1,UK: BT Sport Europe
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/11.ts
- 
-#EXTINF:-1,UK: BT SPORT Extra
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/119.ts
- 
-#EXTINF:-1,UK: British Eurosport
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/12.ts
- 
-#EXTINF:-1,UK: British Eurosport 2
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/13.ts
- 
-#EXTINF:-1,UK: Premier Sports
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/14.ts
- 
-#EXTINF:-1,UK: Setanta Ireland
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/16.TS
-
-#EXTINF:-1,UK: MUTV
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/18.ts
- 
-#EXTINF:-1,UK: BoxNation
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/19.ts
- 
-#EXTINF:-1,UK: RealMadrid
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/21.ts
- 
-#EXTINF:-1,UK: Sky Sports 1 HD
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/22.ts
- 
-#EXTINF:-1,UK: Sky Sports 2 HD
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/23.ts
- 
-#EXTINF:-1,UK: Sky Sports 3 HD
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/24.ts
- 
-#EXTINF:-1,UK: Sky Sports 4 HD
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/25.ts
- 
-#EXTINF:-1,UK: Sky Sports 5 HD
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/26.ts
- 
-#EXTINF:-1,UK: Sky Sports News HD
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/27.ts
- 
-#EXTINF:-1,UK: Sky Sports F1 HD
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/28.ts
- 
-#EXTINF:-1,UK: BT Sport 1 HD
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/29.ts
- 
-#EXTINF:-1,UK: BT Sport 2 HD
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/30.ts
- 
-#EXTINF:-1,UK: BT Sport europe HD
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/31.ts
- 
-#EXTINF:-1,UK: Motor TV
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/86.ts
- 
-#EXTINF:-1,UK: Sky Select
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/33.ts
- 
-#EXTINF:-1,UK: Sky Scifi&horror
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/34.ts
- 
-#EXTINF:-1,UK: Sky Premiere +1
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/35.ts
- 
-#EXTINF:-1,UK: Sky Premiere
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/36.ts
- 
-#EXTINF:-1,UK: Sky Monsters
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/37.ts
- 
-#EXTINF:-1,UK: Sky Greats
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/38.ts
- 
-#EXTINF:-1,UK: Sky Family
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/39.ts
- 
-#EXTINF:-1,UK: Sky Drama
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/40.ts
- 
-#EXTINF:-1,UK: Sky Action
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/41.ts
- 
-#EXTINF:-1,UK: Sky Thriller
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/42.ts
- 
-#EXTINF:-1,UK: Sky Comedy
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/43.ts
- 
-#EXTINF:-1,UK: Sky Atlantic
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/44.ts
- 
-#EXTINF:-1,UK: Sky Atlantic +1
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/123.ts
- 
-#EXTINF:-1,UK: Sky Movies ShowCase
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/100.ts
- 
-#EXTINF:-1,UK: Sky One HD
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/45.ts
- 
-#EXTINF:-1,UK: Sky Two HD
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/46.ts
- 
-#EXTINF:-1,UK: Sky Arts 1
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/47.ts
- 
-#EXTINF:-1,UK: TCM
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/58.ts
- 
-#EXTINF:-1,UK: CBS Reality+
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/120.ts
- 
-#EXTINF:-1,UK: Horror Channel
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/122.ts
- 
-#EXTINF:-1,UK: True Movies
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/55.ts
- 
-#EXTINF:-1,UK: True Movies 2
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/56.ts
- 
-#EXTINF:-1,UK: Comedy Central
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/54.ts
- 
-#EXTINF:-1,UK: RTE 1
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/72.ts
- 
-#EXTINF:-1,UK: RTE 2
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/73.ts
- 
-#EXTINF:-1,UK: Universal +1
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/124.ts
- 
-#EXTINF:-1,UK: Film 4 UK
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/52.ts
- 
-#EXTINF:-1,UK: Movies 4 Men
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/87.ts
- 
-#EXTINF:-1,UK: Fox
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/90.ts
- 
-#EXTINF:-1,UK: Dmax
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/79.ts
- 
-#EXTINF:-1,UK: SyFy
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/51.ts
- 
-#EXTINF:-1,UK: Syfy +1
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/121.ts
- 
-#EXTINF:-1,UK: Dave
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/53.ts
-
-#EXTINF:-1,UK: ITV One  +1
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/68.ts
- 
-#EXTINF:-1,UK: ITV 2 HD
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/69.ts
- 
-#EXTINF:-1,UK: ITV 3 HD
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/70.ts
- 
-#EXTINF:-1,UK: ITV 4 HD
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/71.ts
- 
-#EXTINF:-1,UK: Yesterday
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/57.ts
- 
-#EXTINF:-1,UK: More4
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/75.ts
- 
-#EXTINF:-1,UK: Living UK
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/76.ts
- 
-#EXTINF:-1,UK: Watch
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/49.ts
- 
-#EXTINF:-1,UK: Aliens
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/50.ts
- 
-#EXTINF:-1,UK: Home
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/77.ts
- 
-#EXTINF:-1,UK: Gold
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/78.ts
- 
-#EXTINF:-1,UK: Channel5
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/80.ts
- 
-#EXTINF:-1,UK: Channel 5 USA
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/81.ts
- 
-#EXTINF:-1,UK: Channel 5Star
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/82.ts
- 
-#EXTINF:-1,UK: Channel4 HD
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/83.ts
- 
-#EXTINF:-1,UK: Alibi
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/84.ts
- 
-#EXTINF:-1,UK: Pick TV
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/85.ts
- 
-#EXTINF:-1,UK: E4
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/88.ts
- 
-#EXTINF:-1,UK: Cartoon Network
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/89.ts
- 
-#EXTINF:-1,UK: Nicktoons
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/91.ts
- 
-#EXTINF:-1,UK: Nickelodeon Jr
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/92.ts
- 
-#EXTINF:-1,UK: Nickelodeon
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/93.ts
- 
-#EXTINF:-1,UK: Baby Tv
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/94.ts
- 
-#EXTINF:-1,UK: Boomerang
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/95.ts
- 
-#EXTINF:-1,UK: Sky Disney
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/96.ts
- 
-#EXTINF:-1,UK: Disney Channel
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/97.ts
- 
-#EXTINF:-1,UK: Disney Channel +1
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/125.ts
- 
-#EXTINF:-1,UK: DISNEY JUNIOR
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/98.ts
- 
-#EXTINF:-1,UK: Disney Junior +1
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/127.ts
- 
-#EXTINF:-1,UK: Disney XD
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/99.ts
- 
-#EXTINF:-1,UK: Disney XD +1
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/126.ts
- 
-#EXTINF:-1,UK: Vh1
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/115.ts
- 
-#EXTINF:-1,UK: MTV
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/116.ts
- 
-#EXTINF:-1,UK: MTV Music
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/117.ts
- 
-#EXTINF:-1,UK: MTV Hits
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/118.ts
- 
-#EXTINF:-1,UK: Nat Geo Channel
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/102.ts
- 
-#EXTINF:-1,UK: National Geography Wild
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/101.ts
- 
-#EXTINF:-1,UK: Discovery Channel
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/104.ts
- 
-#EXTINF:-1,UK: Discovery History
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/105.ts
- 
-#EXTINF:-1,UK: Discovery Science
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/106.ts
- 
-#EXTINF:-1,UK: Discovery Turbo
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/107.ts
- 
-#EXTINF:-1,UK: Investion Discovery
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/103.ts
- 
-#EXTINF:-1,UK: TLC
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/108.ts
- 
-#EXTINF:-1,UK: History Channel
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/109.ts
- 
-#EXTINF:-1,UK: Travel Channel
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/110.ts
- 
-#EXTINF:-1,UK: Food Network
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/111.ts
- 
-#EXTINF:-1,UK: SkyNews
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/112.ts
- 
-#EXTINF:-1,Astro SuperSport 1
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/1031.ts
- 
-#EXTINF:-1,Astro SuperSport 2
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/1032.ts
- 
-#EXTINF:-1,Astro SuperSport 3
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/1033.ts
- 
-#EXTINF:-1,Astro SuperSport 4
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/1034.ts
- 
-#EXTINF:-1,CTH 1
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/1035.ts
- 
-#EXTINF:-1,CTH 2
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/1036.ts
- 
-#EXTINF:-1,CTH 3
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/1037.ts
- 
-#EXTINF:-1,CTH 4
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/1038.ts
- 
-#EXTINF:-1,CTH 5
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/1039.ts
- 
-#EXTINF:-1,CTH 6
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/1040.ts
- 
-#EXTINF:-1,CTH X
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/1041.ts
-
-#EXTINF:-1,CI
-http://ilg.club/streamlink.m3u8?channel_id=9961a963920f45f4bc0d81c3e478b334&bitrate=800
+#EXTINF:-1,Sky Two Uk
+http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3557.ts
+#EXTINF:-1,Sky Thriller UK
+http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3558.ts
+#EXTINF:-1,Sky Sports F1 Uk
+http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3559.ts
+#EXTINF:-1,Sky Sports 5 Uk
+http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3560.ts
+#EXTINF:-1,Sky Sports 4 Uk
+http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3561.ts
+#EXTINF:-1,Sky Sports 3 Uk
+http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3562.ts
+#EXTINF:-1,Sky Sports 2 Uk
+http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3563.ts
+#EXTINF:-1,Sky Sports 1 Uk
+http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3564.ts
+#EXTINF:-1,Sky SciFi UK
+http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3565.ts
+#EXTINF:-1,Sky One Uk
+http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3566.ts
+#EXTINF:-1,Sky News Uk
+http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3567.ts
+#EXTINF:-1,Sky Movies Premiere UK
+http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3568.ts
+#EXTINF:-1,Sky Living UK
+http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3569.ts
+#EXTINF:-1,Sky Fox Uk
+http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3570.ts
+#EXTINF:-1,Sky Family UK
+http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3571.ts
+#EXTINF:-1,Sky Drama UK
+http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3572.ts
+#EXTINF:-1,Sky Comedy Central UK
+http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3573.ts
+#EXTINF:-1,Sky Atlantic Uk
+http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3574.ts
+#EXTINF:-1,Sky Action UK
+http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3575.ts
+#EXTINF:-1,RTE Two Uk
+http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3576.ts
+#EXTINF:-1,RTE One Uk
+http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3577.ts
+#EXTINF:-1,Premier Sports Uk
+http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3578.ts
+#EXTINF:-1,Nickelodeon Uk
+http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3580.ts
+#EXTINF:-1,Nickelodeon Jr Uk
+http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3581.ts
+#EXTINF:-1,MUTV UK
+http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3582.ts
+#EXTINF:-1,ITV 4
+http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3583.ts
+#EXTINF:-1,ITV 3
+http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3584.ts
+#EXTINF:-1,ITV 2
+http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3585.ts
+#EXTINF:-1,ITV 1 (SV)
+http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3586.ts
+#EXTINF:-1,Food Uk
+http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3587.ts
+#EXTINF:-1,ESPN Uk
+http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3589.ts
+#EXTINF:-1,Disney XD Uk
+http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3590.ts
+#EXTINF:-1,Disney Movies Uk
+http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3591.ts
+#EXTINF:-1,Disney Junior Uk
+http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3592.ts
+#EXTINF:-1,Disney Channel Uk
+http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3593.ts
+#EXTINF:-1,Discovery Uk
+http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3594.ts
+#EXTINF:-1,Discovery Turbo Uk
+http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3595.ts
+#EXTINF:-1,Discovery Science Uk
+http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3596.ts
+#EXTINF:-1,Discovery History Uk
+http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3597.ts
+#EXTINF:-1,Channel 5 Uk
+http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3600.ts
+#EXTINF:-1,Channel 4 Uk
+http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3601.ts
+#EXTINF:-1,Cartoon Network Uk
+http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3602.ts
+#EXTINF:-1,BT Sports 2 Uk
+http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3603.ts
+#EXTINF:-1,BT Sports 1 Uk
+http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3604.ts
+#EXTINF:-1,BBC News Uk
+http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3609.ts
+#EXTINF:-1,BBC Four
+http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3610.ts
+#EXTINF:-1,BBC Entertainment Uk
+http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3611.ts
+#EXTINF:-1,Animal Planet Uk
+http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3612.ts
+#EXTINF:-1,DE SkySport-1HD
+http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3761.ts
+#EXTINF:-1,Arena Sport 5 HD (HR) test
+http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/4338.ts
+#EXTINF:-1,Arena Sport 4 HD (HR)
+http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/4337.ts
+#EXTINF:-1,Arena Sport 3 HD (HR)
+http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/4336.ts
+#EXTINF:-1,Arena Sport 2 HD (HR)
+http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/4335.ts
+#EXTINF:-1,Arena Sport 1 HD (HR)
+http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/4334.ts
+#EXTINF:-1,Premium Sport HD
+http://178.33.235.29:8080/live/cognacemily/emilio/571.ts
+#EXTINF:-1,Premium Joy
+http://178.33.235.29:8080/live/cognacemily/emilio/565.ts
+#EXTINF:-1,Premium Fox Sport
+http://178.33.235.29:8080/live/cognacemily/emilio/570.ts
+#EXTINF:-1,Sky Sport F1 HD
+http://178.33.235.29:8080/live/cognacemily/emilio/398.ts
+#EXTINF:-1,Sky Sport 3 HD
+http://178.33.235.29:8080/live/cognacemily/emilio/397.ts
+#EXTINF:-1,Sky Sport 24 HD
+http://178.33.235.29:8080/live/cognacemily/emilio/394.ts
+#EXTINF:-1,Sky Sport 2 HD
+http://178.33.235.29:8080/live/cognacemily/emilio/396.ts
+#EXTINF:-1,Sky Sport 1 HD
+http://178.33.235.29:8080/live/cognacemily/emilio/395.ts
 
 #EXTINF:-1,[COLOR green][B]SHOWS 24/7[/B][/COLOR]
 blah
