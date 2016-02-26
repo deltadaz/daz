@@ -101,112 +101,312 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 #EXTINF:1,[COLOR orange][B]PAUL TV [/B][/COLOR]
 yuuuup
 
-#EXTINF:-1,Sky Two Uk
-http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3557.ts
-#EXTINF:-1,Sky Thriller UK
-http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3558.ts
-#EXTINF:-1,Sky Sports F1 Uk
-http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3559.ts
-#EXTINF:-1,Sky Sports 5 Uk
-http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3560.ts
-#EXTINF:-1,Sky Sports 4 Uk
-http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3561.ts
-#EXTINF:-1,Sky Sports 3 Uk
-http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3562.ts
-#EXTINF:-1,Sky Sports 2 Uk
-http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3563.ts
-#EXTINF:-1,Sky Sports 1 Uk
-http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3564.ts
-#EXTINF:-1,Sky SciFi UK
-http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3565.ts
-#EXTINF:-1,Sky One Uk
-http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3566.ts
-#EXTINF:-1,Sky News Uk
-http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3567.ts
-#EXTINF:-1,Sky Movies Premiere UK
-http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3568.ts
-#EXTINF:-1,Sky Living UK
-http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3569.ts
-#EXTINF:-1,Sky Fox Uk
-http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3570.ts
-#EXTINF:-1,Sky Family UK
-http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3571.ts
-#EXTINF:-1,Sky Drama UK
-http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3572.ts
-#EXTINF:-1,Sky Comedy Central UK
-http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3573.ts
-#EXTINF:-1,Sky Atlantic Uk
-http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3574.ts
-#EXTINF:-1,Sky Action UK
-http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3575.ts
-#EXTINF:-1,RTE Two Uk
-http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3576.ts
-#EXTINF:-1,RTE One Uk
-http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3577.ts
-#EXTINF:-1,Premier Sports Uk
-http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3578.ts
-#EXTINF:-1,Nickelodeon Uk
-http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3580.ts
-#EXTINF:-1,Nickelodeon Jr Uk
-http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3581.ts
-#EXTINF:-1,MUTV UK
-http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3582.ts
-#EXTINF:-1,Food Uk
-http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3587.ts
-#EXTINF:-1,ESPN Uk
-http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3589.ts
-#EXTINF:-1,Disney XD Uk
-http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3590.ts
-#EXTINF:-1,Disney Movies Uk
-http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3591.ts
-#EXTINF:-1,Disney Junior Uk
-http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3592.ts
-#EXTINF:-1,Disney Channel Uk
-http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3593.ts
-#EXTINF:-1,Discovery Uk
-http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3594.ts
-#EXTINF:-1,Discovery Turbo Uk
-http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3595.ts
-#EXTINF:-1,Discovery Science Uk
-http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3596.ts
-#EXTINF:-1,Discovery History Uk
-http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3597.ts
-#EXTINF:-1,Cartoon Network Uk
-http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3602.ts
-#EXTINF:-1,BT Sports 2 Uk
-http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3603.ts
-#EXTINF:-1,BT Sports 1 Uk
-http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3604.ts
-#EXTINF:-1,Animal Planet Uk
-http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3612.ts
-#EXTINF:-1,DE SkySport-1HD
-http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/3761.ts
-#EXTINF:-1,Arena Sport 5 HD (HR) test
-http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/4338.ts
-#EXTINF:-1,Arena Sport 4 HD (HR)
-http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/4337.ts
-#EXTINF:-1,Arena Sport 3 HD (HR)
-http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/4336.ts
-#EXTINF:-1,Arena Sport 2 HD (HR)
-http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/4335.ts
-#EXTINF:-1,Arena Sport 1 HD (HR)
-http://2streamingiptv.ddns.net:18001/live/cogfilipo/aless_2902/4334.ts
-#EXTINF:-1,Premium Sport HD
-http://178.33.235.29:8080/live/cognacemily/emilio/571.ts
-#EXTINF:-1,Premium Joy
-http://178.33.235.29:8080/live/cognacemily/emilio/565.ts
-#EXTINF:-1,Premium Fox Sport
-http://178.33.235.29:8080/live/cognacemily/emilio/570.ts
-#EXTINF:-1,Sky Sport F1 HD
-http://178.33.235.29:8080/live/cognacemily/emilio/398.ts
-#EXTINF:-1,Sky Sport 3 HD
-http://178.33.235.29:8080/live/cognacemily/emilio/397.ts
-#EXTINF:-1,Sky Sport 24 HD
-http://178.33.235.29:8080/live/cognacemily/emilio/394.ts
-#EXTINF:-1,Sky Sport 2 HD
-http://178.33.235.29:8080/live/cognacemily/emilio/396.ts
-#EXTINF:-1,Sky Sport 1 HD
-http://178.33.235.29:8080/live/cognacemily/emilio/395.ts
+#EXTINF:-1,bein/sports1 HD
+http://80.243.189.26:81/bein/sports1/index.m3u8
+#EXTINF:-1,bein/sports2 HD
+http://80.243.189.26:81/bein/sports2/index.m3u8
+#EXTINF:-1,bein/sports3 HD
+http://80.243.189.26:81/bein/sports3/index.m3u8
+#EXTINF:-1,bein/sports4 HD
+http://80.243.189.26:81/bein/sports4/index.m3u8
+#EXTINF:-1,bein/sports5 HD
+http://80.243.189.26:81/bein/sports5/index.m3u8
+#EXTINF:-1,bein/sports6 HD
+http://80.243.189.26:81/bein/sports6/index.m3u8
+#EXTINF:-1,bein/sports7 HD
+http://80.243.189.26:81/bein/sports7/index.m3u8
+#EXTINF:-1,bein/sports8 HD
+http://80.243.189.26:81/bein/sports8/index.m3u8
+#EXTINF:-1,bein/sports9 HD
+http://80.243.189.26:81/bein/sports9/index.m3u8
+#EXTINF:-1,bein/sports10 HD
+http://80.243.189.26:81/bein/sports10/index.m3u8
+#EXTINF:-1,bein/sports11 HD
+http://80.243.189.26:81/bein/sports11/index.m3u8
+#EXTINF:0,BT SPORTS 1
+http://80.243.189.26:81/sportshd/bt1/index.m3u8
+#EXTINF:0,BT SPORTS 2
+http://80.243.189.26:81/sportshd/bt2/index.m3u8
+#EXTINF:-1,SKY SPORTS NEWS
+http://80.243.189.26:81/sportshd/skynews/index.m3u8
+#EXTINF:0,SKY SPORTS 1
+http://80.243.189.26:81/sportshd/sky1/index.m3u8
+#EXTINF:0,SKY SPORTS 2
+http://80.243.189.26:81/sportshd/sky2/index.m3u8
+#EXTINF:0,SKY SPORTS 3
+http://80.243.189.26:81/sportshd/sky3/index.m3u8
+#EXTINF:0,SKY SPORTS 4
+http://80.243.189.26:81/sportshd/sky4/index.m3u8
+#EXTINF:0,SKY SPORTS 5
+http://80.243.189.26:81/sportshd/sky5/index.m3u8
+#EXTINF:0,SKY SPORTS F1
+http://80.243.189.26:81/sportshd/skf1/index.m3u8
+#EXTINF:0,Arena Sport 1
+http://bit.do/Arenass1
+#EXTINF:0,Arena Sport 2
+http://bit.do/Arenass2
+#EXTINF:0,Arena Sport 3
+http://bit.do/Arenass3
+#EXTINF:0,Arena Sport 4
+http://bit.do/Arenass4
+#EXTINF:0,Arena Sport 5
+http://bit.do/Arenass5
+#EXTINF:0,Arena_1
+http://iptvbox.noip.us:9998/live/atik/atik/515.ts
+#EXTINF:0,Arena_2
+http://iptvbox.noip.us:9998/live/atik/atik/516.ts
+#EXTINF:0,Arena_3
+http://iptvbox.noip.us:9998/live/atik/atik/517.ts
+#EXTINF:0,Arena_4
+http://iptvbox.noip.us:9998/live/atik/atik/518.ts
+#EXTINF:0,Arena_5
+http://iptvbox.noip.us:9998/live/atik/atik/519.ts
+#EXTINF:0,Sport_Klub_1_HD
+http://iptvbox.noip.us:9998/live/atik/atik/510.ts
+#EXTINF:0,Sport_Klub_2_HD
+http://iptvbox.noip.us:9998/live/atik/atik/511.ts
+#EXTINF:0,Sport_Klub_3_HD
+http://iptvbox.noip.us:9998/live/atik/atik/512.ts
+DE:Sky Bundesliga 1 HD
+http://cobra-iptv.noip.me:8000/live/gendis/gendis/8552.ts
+#EXTINF:-1,EX YU:SPORTKLUB 1
+http://luckyiptv.ddns.net:23000/live/thejoker/thejoker/3468.ts
+#EXTINF:-1,EX YU:SPORTKLUB 2
+http://luckyiptv.ddns.net:23000/live/thejoker/thejoker/3467.ts
+#EXTINF:-1,EX YU:SPORTKLUB 3
+http://luckyiptv.ddns.net:23000/live/thejoker/thejoker/3466.ts
+#EXTINF:-1,EX YU:  Arena Sport 1 (RS)
+http://luckyiptv.ddns.net:23000/live/thejoker/thejoker/3422.ts
+#EXTINF:-1,EX YU: Arena Sport 2 (RS)
+http://luckyiptv.ddns.net:23000/live/thejoker/thejoker/3421.ts
+#EXTINF:-1,EX YU: Arena Sport 3 (RS)
+http://luckyiptv.ddns.net:23000/live/thejoker/thejoker/3419.ts
+#EXTINF:-1,EX YU:  Arena Sport 4 (RS)
+http://luckyiptv.ddns.net:23000/live/thejoker/thejoker/3420.ts
+#EXTINF:-1,EX YU: Arena Sport 1 HD (HR)
+http://luckyiptv.ddns.net:23000/live/thejoker/thejoker/3427.ts
+#EXTINF:-1,EX YU: Arena Sport 2 HD (HR)
+http://luckyiptv.ddns.net:23000/live/thejoker/thejoker/3426.ts
+#EXTINF:-1,EX YU: Arena Sport 3 HD (HR)
+http://luckyiptv.ddns.net:23000/live/thejoker/thejoker/3425.ts
+#EXTINF:-1,EX YU: Arena Sport 4 HD (HR)
+http://luckyiptv.ddns.net:23000/live/thejoker/thejoker/3424.ts
+#EXTINF:0,Arena_1
+http://iptvbox.noip.us:9998/live/ismail/ismail/515.ts
+#EXTINF:0,Arena_2
+http://iptvbox.noip.us:9998/live/ismail/ismail/516.ts
+#EXTINF:0,Arena_3
+http://iptvbox.noip.us:9998/live/ismail/ismail/517.ts
+#EXTINF:0,Arena_4
+http://iptvbox.noip.us:9998/live/ismail/ismail/518.ts
+#EXTINF:0,Arena_5
+http://iptvbox.noip.us:9998/live/ismail/ismail/519.ts
+#EXTINF:0,Sport_Klub_1_HD
+http://iptvbox.noip.us:9998/live/ismail/ismail/510.ts
+#EXTINF:0,Sport_Klub_2_HD
+http://iptvbox.noip.us:9998/live/ismail/ismail/511.ts
+#EXTINF:0,Sport_Klub_3_HD
+http://iptvbox.noip.us:9998/live/ismail/ismail/512.ts
+#EXTINF:0,UK: 3E
+http://cp.dmbshare.net:8000/live/c4a/c4a/2836.ts
+#EXTINF:0,UK: 4 seven
+http://cp.dmbshare.net:8000/live/c4a/c4a/2753.ts
+#EXTINF:0,UK: Alibi
+http://cp.dmbshare.net:8000/live/c4a/c4a/2835.ts
+#EXTINF:0,UK: Animal Planet
+http://cp.dmbshare.net:8000/live/c4a/c4a/2834.ts
+#EXTINF:0,UK: BBC 1 HD
+http://cp.dmbshare.net:8000/live/c4a/c4a/2752.ts
+#EXTINF:0,UK: BBC 4 HD
+http://cp.dmbshare.net:8000/live/c4a/c4a/2751.ts
+#EXTINF:0,UK: BBC NEWS SD/HD
+http://cp.dmbshare.net:8000/live/c4a/c4a/2833.ts
+#EXTINF:0,UK: Bomerang
+http://cp.dmbshare.net:8000/live/c4a/c4a/2832.ts
+#EXTINF:0,UK: Box Nation
+http://cp.dmbshare.net:8000/live/c4a/c4a/2831.ts
+#EXTINF:0,UK: BT Sports 1
+http://cp.dmbshare.net:8000/live/c4a/c4a/2830.ts
+#EXTINF:15,UK: BT Sports 2 HD
+http://cp.dmbshare.net:8000/live/c4a/c4a/2829.ts
+#EXTINF:0,UK: Cartoon NetWork
+http://cp.dmbshare.net:8000/live/c4a/c4a/2828.ts
+#EXTINF:0,UK: CBS Action
+http://cp.dmbshare.net:8000/live/c4a/c4a/2827.ts
+#EXTINF:0,UK: CBS Drama
+http://cp.dmbshare.net:8000/live/c4a/c4a/2826.ts
+#EXTINF:0,UK: CBS Reality
+http://cp.dmbshare.net:8000/live/c4a/c4a/2825.ts
+#EXTINF:0,UK: Channel 4
+http://cp.dmbshare.net:8000/live/c4a/c4a/2824.ts
+#EXTINF:0,UK: Channel 5
+http://cp.dmbshare.net:8000/live/c4a/c4a/2823.ts
+#EXTINF:0,UK: CNN
+http://cp.dmbshare.net:8000/live/c4a/c4a/2750.ts
+#EXTINF:0,UK: Comedy Central
+http://cp.dmbshare.net:8000/live/c4a/c4a/2822.ts
+#EXTINF:0,UK: Discovery History
+http://cp.dmbshare.net:8000/live/c4a/c4a/2821.ts
+#EXTINF:0,UK: Discovery Investigation
+http://cp.dmbshare.net:8000/live/c4a/c4a/2820.ts
+#EXTINF:0,UK: Discovery Science
+http://cp.dmbshare.net:8000/live/c4a/c4a/2819.ts
+#EXTINF:0,UK: Discovery Science HD
+http://cp.dmbshare.net:8000/live/c4a/c4a/2818.ts
+#EXTINF:0,UK: Discovery Turbo
+http://cp.dmbshare.net:8000/live/c4a/c4a/2817.ts
+#EXTINF:0,UK: Discovery World
+http://cp.dmbshare.net:8000/live/c4a/c4a/2816.ts
+#EXTINF:0,UK: Disney Channel
+http://cp.dmbshare.net:8000/live/c4a/c4a/2815.ts
+#EXTINF:0,UK: Disney Junior
+http://cp.dmbshare.net:8000/live/c4a/c4a/2814.ts
+#EXTINF:0,UK: Dmax
+http://cp.dmbshare.net:8000/live/c4a/c4a/2813.ts
+#EXTINF:0,UK: Drama
+http://cp.dmbshare.net:8000/live/c4a/c4a/2812.ts
+#EXTINF:0,UK: E!
+http://cp.dmbshare.net:8000/live/c4a/c4a/2811.ts
+#EXTINF:0,UK: E4
+http://cp.dmbshare.net:8000/live/c4a/c4a/2810.ts
+#EXTINF:0,UK: ESPN HD
+http://cp.dmbshare.net:8000/live/c4a/c4a/2809.ts
+#EXTINF:0,UK: Eurosport 1 HD
+http://cp.dmbshare.net:8000/live/c4a/c4a/2808.ts
+#EXTINF:0,UK: Eurosport 2 HD
+http://cp.dmbshare.net:8000/live/c4a/c4a/2807.ts
+#EXTINF:0,UK: Film 4
+http://cp.dmbshare.net:8000/live/c4a/c4a/2806.ts
+#EXTINF:0,UK: Five
+http://cp.dmbshare.net:8000/live/c4a/c4a/2805.ts
+#EXTINF:0,UK: Food Network
+http://cp.dmbshare.net:8000/live/c4a/c4a/2804.ts
+#EXTINF:0,UK: Fox
+http://cp.dmbshare.net:8000/live/c4a/c4a/2803.ts
+#EXTINF:0,UK: Gold
+http://cp.dmbshare.net:8000/live/c4a/c4a/2802.ts
+#EXTINF:0,UK: Good Food
+http://cp.dmbshare.net:8000/live/c4a/c4a/2801.ts
+#EXTINF:0,UK: H2
+http://cp.dmbshare.net:8000/live/c4a/c4a/2800.ts
+#EXTINF:0,UK: Home
+http://cp.dmbshare.net:8000/live/c4a/c4a/2799.ts
+#EXTINF:0,UK: Horror Channel
+http://cp.dmbshare.net:8000/live/c4a/c4a/2798.ts
+#EXTINF:0,UK: Living
+http://cp.dmbshare.net:8000/live/c4a/c4a/2797.ts
+#EXTINF:0,UK: More4
+http://cp.dmbshare.net:8000/live/c4a/c4a/2749.ts
+#EXTINF:0,UK: Mototrs TV
+http://cp.dmbshare.net:8000/live/c4a/c4a/2796.ts
+#EXTINF:0,UK: Movies 4 Men
+http://cp.dmbshare.net:8000/live/c4a/c4a/2795.ts
+#EXTINF:0,UK: MUTV
+http://cp.dmbshare.net:8000/live/c4a/c4a/2794.ts
+#EXTINF:0,UK: NATIONAL GEOGRAPHIC
+http://cp.dmbshare.net:8000/live/c4a/c4a/2793.ts
+#EXTINF:0,UK: National Geography Wild
+http://cp.dmbshare.net:8000/live/c4a/c4a/2792.ts
+#EXTINF:0,UK: Nick
+http://cp.dmbshare.net:8000/live/c4a/c4a/2791.ts
+#EXTINF:0,UK: Nick JR
+http://cp.dmbshare.net:8000/live/c4a/c4a/2748.ts
+#EXTINF:0,UK: Pick TV
+http://cp.dmbshare.net:8000/live/c4a/c4a/2747.ts
+#EXTINF:0,UK: Premiere Sport
+http://cp.dmbshare.net:8000/live/c4a/c4a/2790.ts
+#EXTINF:0,UK: Quest
+http://cp.dmbshare.net:8000/live/c4a/c4a/2746.ts
+#EXTINF:0,UK: Racing
+http://cp.dmbshare.net:8000/live/c4a/c4a/2789.ts
+#EXTINF:0,UK: Really
+http://cp.dmbshare.net:8000/live/c4a/c4a/2745.ts
+#EXTINF:0,UK: RTE 1 HD
+http://cp.dmbshare.net:8000/live/c4a/c4a/2788.ts
+#EXTINF:0,UK: RTE 2 HD
+http://cp.dmbshare.net:8000/live/c4a/c4a/2787.ts
+#EXTINF:0,UK: Setanta Sport
+http://cp.dmbshare.net:8000/live/c4a/c4a/2786.ts
+#EXTINF:0,UK: Sky Arts 1
+http://cp.dmbshare.net:8000/live/c4a/c4a/2785.ts
+#EXTINF:0,UK: Sky Atlantic
+http://cp.dmbshare.net:8000/live/c4a/c4a/2784.ts
+#EXTINF:0,UK: Sky Comedy
+http://cp.dmbshare.net:8000/live/c4a/c4a/2783.ts
+#EXTINF:0,UK: Sky Disney
+http://cp.dmbshare.net:8000/live/c4a/c4a/2782.ts
+#EXTINF:0,UK: Sky Family
+http://cp.dmbshare.net:8000/live/c4a/c4a/2781.ts
+#EXTINF:0,UK: Sky Living
+http://cp.dmbshare.net:8000/live/c4a/c4a/2780.ts
+#EXTINF:0,UK: Sky MOVIE Drama
+http://cp.dmbshare.net:8000/live/c4a/c4a/2779.ts
+#EXTINF:0,UK: Sky Movies Action HD
+http://cp.dmbshare.net:8000/live/c4a/c4a/2778.ts
+#EXTINF:0,UK: Sky Movies Disney HD
+http://cp.dmbshare.net:8000/live/c4a/c4a/2744.ts
+#EXTINF:0,UK: Sky Movies Drama HD
+http://cp.dmbshare.net:8000/live/c4a/c4a/2777.ts
+#EXTINF:0,UK: Sky Movies Family HD
+http://cp.dmbshare.net:8000/live/c4a/c4a/2743.ts
+#EXTINF:0,UK: Sky Movies Modern Great
+http://cp.dmbshare.net:8000/live/c4a/c4a/2776.ts
+#EXTINF:0,UK: Sky Movies Modern Great HD
+http://cp.dmbshare.net:8000/live/c4a/c4a/2742.ts
+#EXTINF:0,UK: Sky Movies Premiere HD
+http://cp.dmbshare.net:8000/live/c4a/c4a/2775.ts
+#EXTINF:0,UK: Sky Movies Sci-Fi HD
+http://cp.dmbshare.net:8000/live/c4a/c4a/2774.ts
+#EXTINF:0,UK: Sky Movies ShowCase
+http://cp.dmbshare.net:8000/live/c4a/c4a/2741.ts
+#EXTINF:0,UK: Sky Movies Thriller HD
+http://cp.dmbshare.net:8000/live/c4a/c4a/2773.ts
+#EXTINF:0,UK: Sky News
+http://cp.dmbshare.net:8000/live/c4a/c4a/2772.ts
+#EXTINF:0,UK: Sky One
+http://cp.dmbshare.net:8000/live/c4a/c4a/2771.ts
+#EXTINF:0,UK: Sky pop
+http://cp.dmbshare.net:8000/live/c4a/c4a/2770.ts
+#EXTINF:0,UK: Sky Sci-Fi
+http://cp.dmbshare.net:8000/live/c4a/c4a/2769.ts
+#EXTINF:0,UK: Sky Sport 1
+http://cp.dmbshare.net:8000/live/c4a/c4a/2768.ts
+#EXTINF:0,UK: SKY SPORT 1 HD
+http://cp.dmbshare.net:8000/live/c4a/c4a/2767.ts
+#EXTINF:0,UK: SKY SPORT 2HD
+http://cp.dmbshare.net:8000/live/c4a/c4a/2766.ts
+#EXTINF:0,UK: Sky Sport 3 HD
+http://cp.dmbshare.net:8000/live/c4a/c4a/2765.ts
+#EXTINF:0,UK: Sky Sport 4 HD
+http://cp.dmbshare.net:8000/live/c4a/c4a/2764.ts
+#EXTINF:0,UK: SKY SPORT 5 HD
+http://cp.dmbshare.net:8000/live/c4a/c4a/2763.ts
+#EXTINF:0,UK: Sky Sport F1 HD
+http://cp.dmbshare.net:8000/live/c4a/c4a/2762.ts
+#EXTINF:0,UK: Sky Sports News HD
+http://cp.dmbshare.net:8000/live/c4a/c4a/2761.ts
+#EXTINF:0,UK: Sky Thriller
+http://cp.dmbshare.net:8000/live/c4a/c4a/2760.ts
+#EXTINF:0,UK: Sky Two
+http://cp.dmbshare.net:8000/live/c4a/c4a/2759.ts
+#EXTINF:0,UK: Sy-Fy
+http://cp.dmbshare.net:8000/live/c4a/c4a/2740.ts
+#EXTINF:0,UK: Tiny Pop
+http://cp.dmbshare.net:8000/live/c4a/c4a/2758.ts
+#EXTINF:0,UK: TLC
+http://cp.dmbshare.net:8000/live/c4a/c4a/2757.ts
+#EXTINF:0,UK: True Movies 1
+http://cp.dmbshare.net:8000/live/c4a/c4a/2756.ts
+#EXTINF:0,UK: True Movies 2
+http://cp.dmbshare.net:8000/live/c4a/c4a/2755.ts
+#EXTINF:0,UK: Vh1 Classic
+http://cp.dmbshare.net:8000/live/c4a/c4a/2754.ts
+#EXTINF:0,UK: Watch UK
+http://cp.dmbshare.net:8000/live/c4a/c4a/2739.ts
+#EXTINF:0,UK: Yesterday
+http://cp.dmbshare.net:8000/live/c4a/c4a/2738.ts
+#EXTINF:0,UK:CNBC
+http://cp.dmbshare.net:8000/live/c4a/c4a/3301.ts
 
 #EXTINF:-1,[COLOR green][B]SHOWS 24/7[/B][/COLOR]
 blah
