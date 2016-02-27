@@ -169,28 +169,6 @@ http://iptvbox.noip.us:9998/live/atik/atik/511.ts
 http://iptvbox.noip.us:9998/live/atik/atik/512.ts
 DE:Sky Bundesliga 1 HD
 http://cobra-iptv.noip.me:8000/live/gendis/gendis/8552.ts
-#EXTINF:-1,EX YU:SPORTKLUB 1
-http://luckyiptv.ddns.net:23000/live/thejoker/thejoker/3468.ts
-#EXTINF:-1,EX YU:SPORTKLUB 2
-http://luckyiptv.ddns.net:23000/live/thejoker/thejoker/3467.ts
-#EXTINF:-1,EX YU:SPORTKLUB 3
-http://luckyiptv.ddns.net:23000/live/thejoker/thejoker/3466.ts
-#EXTINF:-1,EX YU:  Arena Sport 1 (RS)
-http://luckyiptv.ddns.net:23000/live/thejoker/thejoker/3422.ts
-#EXTINF:-1,EX YU: Arena Sport 2 (RS)
-http://luckyiptv.ddns.net:23000/live/thejoker/thejoker/3421.ts
-#EXTINF:-1,EX YU: Arena Sport 3 (RS)
-http://luckyiptv.ddns.net:23000/live/thejoker/thejoker/3419.ts
-#EXTINF:-1,EX YU:  Arena Sport 4 (RS)
-http://luckyiptv.ddns.net:23000/live/thejoker/thejoker/3420.ts
-#EXTINF:-1,EX YU: Arena Sport 1 HD (HR)
-http://luckyiptv.ddns.net:23000/live/thejoker/thejoker/3427.ts
-#EXTINF:-1,EX YU: Arena Sport 2 HD (HR)
-http://luckyiptv.ddns.net:23000/live/thejoker/thejoker/3426.ts
-#EXTINF:-1,EX YU: Arena Sport 3 HD (HR)
-http://luckyiptv.ddns.net:23000/live/thejoker/thejoker/3425.ts
-#EXTINF:-1,EX YU: Arena Sport 4 HD (HR)
-http://luckyiptv.ddns.net:23000/live/thejoker/thejoker/3424.ts
 #EXTINF:0,Arena_1
 http://iptvbox.noip.us:9998/live/ismail/ismail/515.ts
 #EXTINF:0,Arena_2
@@ -213,16 +191,18 @@ http://cp.dmbshare.net:8000/live/c4a/c4a/2836.ts
 http://cp.dmbshare.net:8000/live/c4a/c4a/2753.ts
 #EXTINF:0,UK: Alibi
 http://cp.dmbshare.net:8000/live/c4a/c4a/2835.ts
-#EXTINF:0,UK: Animal Planet
+#EXTINF:1,Animal Planet
 http://cp.dmbshare.net:8000/live/c4a/c4a/2834.ts
+
 #EXTINF:0,UK: BBC 1 HD
 http://cp.dmbshare.net:8000/live/c4a/c4a/2752.ts
 #EXTINF:0,UK: BBC 4 HD
 http://cp.dmbshare.net:8000/live/c4a/c4a/2751.ts
 #EXTINF:0,UK: BBC NEWS SD/HD
 http://cp.dmbshare.net:8000/live/c4a/c4a/2833.ts
-#EXTINF:0,UK: Bomerang
+#EXTINF:1,Bomerang
 http://cp.dmbshare.net:8000/live/c4a/c4a/2832.ts
+
 #EXTINF:0,UK: Box Nation
 http://cp.dmbshare.net:8000/live/c4a/c4a/2831.ts
 #EXTINF:0,UK: BT Sports 1
